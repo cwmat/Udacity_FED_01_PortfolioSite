@@ -6,8 +6,8 @@ Chaz Mateer
 /*
 Colors
 Orange: #F8981C
-Light Greay: #BCBBBB
-Dark Grey: #747704
+Light Greay: #bbbab9
+Dark Grey: #5d614e
 */
 
 /* For testing */
@@ -94,19 +94,35 @@ img {
   height: auto;
 }
 
-a  {
-  
+a {
+  font-weight: bold;
 }
 
-.feature {
-  margin-left: -0.5em;
-  margin-right: -0.5em;
+a:link {
+  color: #F8981C;
+}
+
+a:visited {
+  color: #cc7d17;
+}
+
+a:hover {
+  color: #ffa61d;
+}
+
+a:active {
+  color: #ffebcb;
+}
+
+.padding-row {
+  margin-left: -1em;
+  width: calc(100% + 2em);
 }
 
 .center-text {
   text-align: center;
-  padding-left: 0.5em;
-  padding-right: 0.5em;
+  position: relative;
+  padding: 0 1em;
 }
 
 .hero {
@@ -114,3 +130,35 @@ a  {
   padding: 0;
 }
 
+.text-uppercase {
+  text-transform: uppercase;
+}
+
+.text-right {
+  text-align: right;
+}
+
+h1 {
+  margin: 0.5em 0 0 0;
+  color: #000000;
+}
+
+h2{
+  color: #5d614e;
+  margin: 0;
+  margin-top: 0.2em;
+}
+
+h3 {
+  margin: 0;
+  margin-top: 0.2em;
+  color: #a8a7a6;
+}
+
+h4 {
+  color: #5d614e;
+}
+
+header {
+  border-bottom: solid #5d614e;
+}

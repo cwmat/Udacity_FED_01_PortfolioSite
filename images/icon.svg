@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 64.000001 64.000001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="icon.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="13.286363"
+     inkscape:cx="38.896725"
+     inkscape:cy="29.960588"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="-7.1501887,31.46083"
+       orientation="0,1"
+       id="guide3357" />
+    <sodipodi:guide
+       position="7.6017795,50.728707"
+       orientation="0,1"
+       id="guide3359" />
+    <sodipodi:guide
+       position="11.816628,11.891893"
+       orientation="0,1"
+       id="guide3361" />
+    <sodipodi:guide
+       position="11.666097,2.63428"
+       orientation="0,1"
+       id="guide3363" />
+    <sodipodi:guide
+       position="22.955869,60.28738"
+       orientation="0,1"
+       id="guide3365" />
+    <sodipodi:guide
+       position="7.6017795,47.868632"
+       orientation="1,0"
+       id="guide3367" />
+    <sodipodi:guide
+       position="-0.075265144,33.116663"
+       orientation="1,0"
+       id="guide3369" />
+    <sodipodi:guide
+       position="63.900107,28.751285"
+       orientation="1,0"
+       id="guide3371" />
+    <sodipodi:guide
+       position="47.718101,31.46083"
+       orientation="1,0"
+       id="guide3373" />
+    <sodipodi:guide
+       position="55.696207,39.890526"
+       orientation="1,0"
+       id="guide3375" />
+    <sodipodi:guide
+       position="15.80568,37.632572"
+       orientation="1,0"
+       id="guide3377" />
+    <sodipodi:guide
+       position="23.633255,26.418066"
+       orientation="1,0"
+       id="guide3379" />
+    <sodipodi:guide
+       position="39.514201,35.976739"
+       orientation="1,0"
+       id="guide3381" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-988.36216)">
+    <path
+       style="fill:#f8981c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 15.80568,1001.6335 -8.2039006,0 -7.6770445,19.2678 7.6770445,19.569 8.2039006,0 -8.2039006,-19.569 z"
+       id="path3383"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#f8981c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 47.7181,992.07478 -8.2039,0 -23.70852,57.65312 7.827575,0 24.084845,-57.65312"
+       id="path3385"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#f8981c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 47.7181,1001.6335 7.978106,0 8.2039,19.2678 -8.2039,19.569 -7.978106,0 7.978106,-19.569 -7.978106,-19.2678"
+       id="path3387"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
