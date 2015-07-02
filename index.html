@@ -1,26 +1,21 @@
-<!-- 
-Udacity Front End Developer Nano Degree Project 1 Portfolio Site
-Chaz Mateer
-
-Images:
-Spaghetti: 
-https://upload.wikimedia.org/wikipedia/commons/b/b7/Lutong_Bahay_-_Bolognese_Spaghetti.jpg
-
-
- -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <!-- 
+  Udacity Front End Developer Nano Degree Project 1 Portfolio Site
+  Chaz Mateer
 
+  Images:
+  Spaghetti: 
+  https://upload.wikimedia.org/wikipedia/commons/b/b7/Lutong_Bahay_-_Bolognese_Spaghetti.jpg
+  -->
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <title>Chaz Mateer Portfolio Site</title>
   <meta name="description" content="Udacity Nano Degree Project 1 Portfolio Site for Chaz Mateer">
   <meta name="author" content="https://github.com/cwmat">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0, user-scalable=yes">
-  <meta itemprop="name" content="Udacity Nano Degree Project 1 Portfolio Site for Chaz Mateer">
   <!--Icon adapted from: https://useiconic.com-->
-  <meta itemprop="image" content="images/icon.svg">
   <meta name="mobile-web-app-capable" content="yes">
   <meta id="theme-color" name="theme-color" content="#F8981C">
 
@@ -36,7 +31,7 @@ https://upload.wikimedia.org/wikipedia/commons/b/b7/Lutong_Bahay_-_Bolognese_Spa
   <header class="row">
     <div class="col-6">
       <!--Icon adapted from: https://useiconic.com-->
-      <img src="images/icon.svg" height="100px" width="100px" alt="Logo." class="logo">
+      <img src="images/icon.svg" height="100" width="100" alt="Logo." class="logo">
     </div>
 
     <div class="col-6 text-uppercase text-right">
@@ -48,9 +43,14 @@ https://upload.wikimedia.org/wikipedia/commons/b/b7/Lutong_Bahay_-_Bolognese_Spa
   <main>
     <section class="row">
       <div class="col-12">
+      <figure>
         <picutre>
-          <img src="images/Temp1.jpg" alt="Replace" class="hero">
+          <source media="(max-width: 600px)" 
+            srcset="images/waterfall_large_2x.jpg 2x,
+             images/waterfall_large_1x.jpg 1x" />
+          <img src="images/waterfall_large_2x.jpg" srcset="images/waterfall_large_1x.jpg 1x, images/waterfall_large_2x.jpg" alt="Placeholder image of a flowing waterfall in a forest." class="hero">
         </picutre>
+        </figure>
       </div>
     </section>
 
@@ -63,24 +63,33 @@ https://upload.wikimedia.org/wikipedia/commons/b/b7/Lutong_Bahay_-_Bolognese_Spa
     <section class="row padding-row">
       <div class="col-4 center-text small-pane">
         <picutre>
-          <img src="images/Temp2.jpg" alt="Replace">
+          <img src="images/spaghetti.jpg" alt="Steamy plate of spaghetti.">
         </picutre>
         <h4>Spaghettify</h4>
-        <a href="#">Link</a>
+        <a href="#">Placeholder Link</a>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vitae vulputate purus, ut mollis urna. Vivamus id magna ac enim euismod imperdiet quis et mi. Nullam efficitur libero mauris, sit.
+        </p>
       </div>
       <div class="col-4 center-text small-pane">
         <picutre>
-          <img src="images/Temp3.jpg" alt="Replace">
+          <img src="images/bigfoot.jpg" alt="An artsy bigfoot figurine in the woods.">
         </picutre>
-        <h4>Sunflower</h4>
-        <a href="#">Link</a>
+        <h4>Hairy Woodsman</h4>
+        <a href="#">Placeholder Link</a>
+        <p>
+          Ut lacinia volutpat odio, eget congue augue luctus sed. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam finibus in nisi et porttitor. In non luctus quam. 
+        </p>
       </div>
       <div class="col-4 center-text small-pane">
         <picutre>
-          <img src="images/Temp4.jpg" alt="Replace">
+          <img src="images/moops.jpg" alt="Super cute black and white lab/pointer mix puppy!">
         </picutre>
-        <h4>Bokeh</h4>
-        <a href="#">Link</a>
+        <h4>Moopster</h4>
+        <a href="#">Placeholder Link</a>
+        <p>
+          Pellentesque vel mi felis. Maecenas condimentum purus a mauris consequat mattis. Etiam ullamcorper blandit justo, id euismod eros molestie id. Suspendisse ultrices tempus libero sed ultricies. 
+        </p>
       </div>
     </section>
   </main>

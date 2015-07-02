@@ -202,11 +202,24 @@ h3 {
 
 h4 {
   color: #5d614e;
+  margin-bottom: 0.25em;
 }
 
 header {
   border-bottom: solid #5d614e;
 }
 
+.small-pane {
+  margin-bottom: 1em;
+}
 
+.small-pane img:hover {
+  max-width: 99%;
+  -webkit-transition: max-width 1s;
+  transition: width 3s;
+}
+
+p {
+  text-align: left;
+}
 
