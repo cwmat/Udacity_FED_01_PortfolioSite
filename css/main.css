@@ -42,16 +42,16 @@ Dark Grey: #5d614e
 
 /* TODO Fix rough transitions and col-6 overlap in header */
 
-.col-1, 
-.col-2, 
-.col-3, 
-.col-4, 
-.col-5, 
-.col-7, 
-.col-8, 
-.col-9, 
-.col-10, 
-.col-11, 
+.col-1,
+.col-2,
+.col-3,
+.col-4,
+.col-5,
+.col-7,
+.col-8,
+.col-9,
+.col-10,
+.col-11,
 .col-12 {
   width: 100%;
   -webkit-transition: width 0.5s;
@@ -65,7 +65,7 @@ Dark Grey: #5d614e
 }
 
 @media screen and (max-width: 480px) {
-  h1, 
+  h1,
   h2 {
     font-size: 1.25em;
     -webkit-transition: font-size 0.5s;
